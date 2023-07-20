@@ -22,6 +22,24 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+
+**Nest Application Hosted Link** : https://ed-dashboard.vercel.app/
+
+[Api Endpoints](https://ed-dashboard.vercel.app/) 
+
+1. **https://ed-dashboard.vercel.app/school**
+   For Getting the school information
+
+2. **https://ed-dashboard.vercel.app/school/details**
+   For Getting the school's detailed information like number of students, total fine and sections.
+
+3. **https://ed-dashboard.vercel.app/school/monthly**
+    For Getting the school's month wise collection
+
+
+  **React Application Hosted Link** : https://ed-dashboard-react.vercel.app/
+  **Github Repo Link for react App** : https://github.com/sachinkalpda/ed_dashboard_react
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
